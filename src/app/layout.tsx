@@ -3,8 +3,8 @@ import "./globals.css";
 
 // Done after the video and optional: add page metadata
 export const metadata = {
-  title: "FriendZone | Home",
-  description: "Welcome to the FriendZone",
+  title: "DX Team chat",
+  description: "Welcome to the DX Team playground",
 };
 
 export default function RootLayout({
